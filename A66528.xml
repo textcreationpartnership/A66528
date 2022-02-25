@@ -1,0 +1,701 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Io ruminans: or The repercussion of a triumph celebrated in the palace of Diana Ardenna. By the rustick muse of R.W. Proicho-philo-mazix</title>
+            <author>Walden, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66528</idno>
+            <idno type="STC">Wing W287</idno>
+            <idno type="STC">ESTC R219290</idno>
+            <idno type="EEBO-CITATION">99830780</idno>
+            <idno type="PROQUEST">99830780</idno>
+            <idno type="VID">35234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1878:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Io ruminans: or The repercussion of a triumph celebrated in the palace of Diana Ardenna. By the rustick muse of R.W. Proicho-philo-mazix</title>
+                  <author>Walden, Richard.</author>
+               </titleStmt>
+               <extent>[4], 7-21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno virginis parturientis. 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.W. = Richard Walden.</note>
+                  <note>"Proicho-philo-mazix" is in Greek on the title page.</note>
+                  <note>Place of publication from Madan.</note>
+                  <note>In verse.</note>
+                  <note>Madan -- "The dedication is to mrs. Anne Gibbs, an actress who took six parts in certain plays acted at the King's Arms, Holywell, Oxford, July 3-8 1661. .. The six plays and mrs. Gibbs's six parts are named, .. Each canto of the poem referrs mistily to one of the performances .. ."; Anne Gibbs = Anne Shadwell, wife of Thomas Shadwell.</note>
+                  <note>Imperfect: pp. 1-2 lacking.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shadwell, Anne --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35234:1"/>
+            <pb facs="tcp:35234:2" rendition="simple:additions"/>
+            <pb facs="tcp:35234:2"/>
+            <pb facs="tcp:35234:3"/>
+            <pb facs="tcp:35234:3" rendition="simple:additions"/>
+            <pb facs="tcp:35234:4" rendition="simple:additions"/>
+            <pb facs="tcp:35234:4"/>
+            <p>
+               <hi>10 R<g ref="char:V">Ʋ</g>MINANS:</hi> OR THE REPERCUSSION OF A TRIUMPH Celebrated in the Palace of <hi>Diana Ardenna.</hi>
+            </p>
+            <p>By the Ruſtick <hi>Muſe</hi> of <hi>R.W.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <q xml:lang="lat">
+               <bibl>Aud. Epig. Lib. 1.</bibl>
+               <l>
+                  <g ref="char:V">Ʋ</g>ror amore miſer, tantoque potentius utor,</l>
+               <l>Quanto, qui me urit, longius ignis abeſt.</l>
+            </q>
+            <q>
+               <l>
+                  <hi>I burn in flames of love, and fry</hi>
+               </l>
+               <l>
+                  <hi>More by the fire's longinquity.</hi>
+               </l>
+            </q>
+            <p>Printed Anno Virginis parturientis.</p>
+            <p>1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35234:5"/>
+            <pb facs="tcp:35234:5"/>
+            <head>THE DEDICATION. TO THE <hi>Tranſcendently Formoſe,</hi> AND (As far as can be concluded from the <hi>Topicks</hi> of <hi>Ommatology</hi>) MOST HEROICALLY VIRTUOUS M<hi rend="sup">rs</hi> 
+               <hi>Anne Gibbs.</hi>
+            </head>
+            <p>Who perſonated
+<list>
+                  <item>Gartrude in Tu Quoque <hi>July</hi> 3.6.4.4.8.5.5.8.</item>
+                  <item>Harebr. wife in Madworld my M. <hi>July</hi> 3.6.4.4.8.5.5.8.</item>
+                  <item>Roſinda in Young Admirall <hi>July</hi> 3.6.4.4.8.5.5.8.</item>
+                  <item>Dionyſia in All's loſt by luſt <hi>July</hi> 3.6.4.4.8.5.5.8.</item>
+                  <item>A Lady in Merry Milkm. <hi>July</hi> 3.6.4.4.8.5.5.8.</item>
+                  <item>LUCRETIA in Rape of Lucrece <hi>July</hi> 3.6.4.4.8.5.5.8.</item>
+               </list>
+            </p>
+            <p>1661.</p>
+            <p>At the (<hi>Quondam-Antelope,</hi> now) King's Arms in Holywell <hi>Oxon.</hi>
+            </p>
+            <pb facs="tcp:35234:6"/>
+            <p> 
+               <hi>RICHARD WALDEN,</hi> To intimate his retention of thoſe indelible Characters imprinted on his heart by the emiſsive Organ of her fulgurant eye, DEDICATETH THIS <hi>Encomiaſtick Decameron</hi>
+            </p>
+            <closer>
+               <dateline>From his Grotto at the foot of לארה in ARDEN <date>Aug. 10<hi rend="sup">th</hi> 1661.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="prologue">
+            <pb n="7" facs="tcp:35234:6"/>
+            <head>PROLOGUE <hi>(by the Book)</hi>
+            </head>
+            <argument>
+               <lg>
+                  <l>Thus I'm Commanded to foreſtall the eyes</l>
+                  <l>Of thoſe few Readers that will not paſs by's.</l>
+               </lg>
+            </argument>
+            <lg>
+               <l>FEar no <hi>ſarcaſtick Placard</hi> ſuch as cloath</l>
+               <l>The ſides of <hi>Paſquin</hi> and <hi>Morforeo.</hi>
+               </l>
+               <l>Here you'll find nothing bitter, not ſo much</l>
+               <l>As to protect for <hi>Momus's</hi> teeth, for ſuch</l>
+               <l>Our Author thus accoſts, I know there's none</l>
+               <l>Exempted from thy reprehenſion.</l>
+               <l>Thou carp'd'ſt, as <hi>Vulcane's</hi> man, 'cauſe he had not</l>
+               <l>A breaſt tranſparent, and 't was <hi>Venus's</hi> lot</l>
+               <l>To hath the ſame doom on her creaking ſhoes;</l>
+               <l>To both which cenſures it's obnoxious.</l>
+               <l>Yet needs it not a <hi>patrone</hi> to defend it;</l>
+               <l>For none, I'm ſure, will carp at, that can mend, it.</l>
+               <l>But thus the humble Author doth ſubject,</l>
+               <l>To that acute diſcerning Intellect,</l>
+               <l>This his <hi>Capriccio,</hi> which did diſtill</l>
+               <l>From a dull brain, through an obtuſer quill.</l>
+            </lg>
+            <lg>
+               <l>I know my weakneſs in a task</l>
+               <l>Of ſuch a Magn'tude which doth ask</l>
+               <l>A quill from <hi>Marcab,</hi> if you'd ha't</l>
+               <l>Done well, ſure to delineate</l>
+               <pb n="8" facs="tcp:35234:7"/>
+               <l> Such a <hi>Platonick</hi> ſhe that may</l>
+               <l>Be Monarch of <hi>Utopia,</hi>
+               </l>
+               <l>Requires a fancy that's ſublime,</l>
+               <l>And ſuch a ſtrain that's buskin'd, mine</l>
+               <l>Deſid'rates both theſe, for the moſt,</l>
+               <l>And that's imperfect, I can boaſt</l>
+               <l>Is ſo much knowledge as to tell</l>
+               <l>Tis <hi>Panſophy</hi> to know you well.</l>
+               <l>Thrice happy he then that ſhall be</l>
+               <l>Bleſt with that <hi>Encyclopaedy.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="canto">
+            <pb n="9" facs="tcp:35234:7"/>
+            <head>CANTO I. Or the <hi>INTROD<g ref="char:V">Ʋ</g>CTION.</hi>
+            </head>
+            <lg>
+               <l>I'm he who once ſate by ſtill <hi>Charwell's</hi> ſide,</l>
+               <l>Amongſt th'<hi>Ouzonian Girls,</hi> and whilome try'd</l>
+               <l>To whiſper out a <hi>Dirge</hi> for her, when her</l>
+               <l>Who was the <hi>Pole-ſtar</hi> of our <hi>Hemiſphaere.</hi>
+               </l>
+               <l>(That <hi>Heledonian Nymph</hi> who from her ſire</l>
+               <l>Came murm'ring this ſad news did me inſpire,</l>
+               <l>And brought <hi>Melpomene,</hi> who needs would be</l>
+               <l>My <hi>Abcedarian</hi> in <hi>Philomuſy.</hi>
+               </l>
+               <l>Nor is it ſtrange, though ſcarce obſerved yet,</l>
+               <l>
+                  <hi>(A)</hi> Should begin the <hi>Muſe's Alphabet.)</hi>
+               </l>
+               <l>But now repos'd upon the ſhady lawns</l>
+               <l>Of dimpled <hi>Cune</hi> amongſt old <hi>Arden's</hi> Fauns.</l>
+            </lg>
+            <lg>
+               <l>I ſing the triumph of that face which mean't</l>
+               <l>To give
+<note place="bottom">(a) So the learned <hi>Bouchert</hi> in his <hi>Phaleg</hi> gives the E<g ref="char:EOLhyphen"/>tymology of <hi>Europe,</hi> exploding thoſe of <hi>Verhop,</hi> and the Fable of <hi>Europa.</hi> In the Punick tongue it ſignifies an ex<g ref="char:EOLhyphen"/>cellentcountenance.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>rappa</hi> to our
+<note place="bottom">(b) <hi>Poetica licentia,</hi> yet according to the opinion of <hi>Verſlegan,</hi> &amp;c.</note> 
+                  <hi>continent,</hi>
+               </l>
+               <l>If not anticipated, 'tis ſhe alone,</l>
+               <l>I'm ſure, hath verify d that <hi>Etymon.</hi>
+               </l>
+               <l>SHE who each frown or ſmile can ſhew more dead,</l>
+               <l>Than e're were <hi>petrify'd</hi> by <hi>Meduſa's</hi> head.</l>
+               <pb n="10" facs="tcp:35234:8"/>
+               <l> Whoſe tongue ſpeaks <hi>ſophiſms,</hi> that would baffle <hi>Sphinx</hi>
+               </l>
+               <l>Whoſe eyes charm <hi>Baſilsks,</hi> and blind the <hi>Linx.</hi>
+               </l>
+               <l>The azure ſtreams that circle in whoſe hands</l>
+               <l>Out vye bright <hi>Pactolus</hi> for all his ſands.</l>
+               <l>Whoſe all is ſuch that who ſo views't ſhall find</l>
+               <l>She is the <hi>Auxeſis</hi> of woman-kind.</l>
+               <l>She't is that claims theſe <hi>fetter'd ſlaves</hi> to be</l>
+               <l>Expos'd as <hi>Trophys</hi> of her victory.</l>
+            </lg>
+         </div>
+         <div n="2" type="canto">
+            <head>CANTO II. Or the GARTRUDADE.</head>
+            <lg>
+               <l>'Twas when <hi>Hyperion</hi> was turning back</l>
+               <l>From his <hi>aeſtiral Tropick,</hi> and did make</l>
+               <l>His way through raging <hi>Alaſed,</hi> that time</l>
+               <l>The <hi>Euronymides</hi> and the <hi>Theſpian</hi> Nine,</l>
+               <l>Led by their <hi>Alytarch Apollo,</hi> hye</l>
+               <l>To celebrate their <hi>Anniverſary</hi>
+               </l>
+               <l>Upon thoſe learned banks, where <hi>Charwel</hi> makes</l>
+               <l>A <hi>Cherſeneſe,</hi> as ſhe the <hi>Bride</hi> o'ertakes,</l>
+               <l>Poſting to <hi>Dorcheſter</hi> the place deſign'd</l>
+               <l>To joyn her to the rude <hi>Chilternian kind.</hi>
+               </l>
+               <l>That moſt unhappy-happy day the sky</l>
+               <l>Was govern'd by the ſweet-lipp'd <hi>Mercury.</hi>
+               </l>
+               <l>And <hi>Phaebus</hi> paſt the <hi>Zenith</hi> of his courſe,</l>
+               <l>Going to <hi>Neptune</hi>'s bed with all his force</l>
+               <pb n="11" facs="tcp:35234:8"/>
+               <l> To's ſiſter <hi>Thetis,</hi> when firſt theſe mine eyes</l>
+               <l>Saw a far brighter luminary riſe,</l>
+               <l>And from his country too, which did Eclips</l>
+               <l>His luſtre with the tincture of her lipps.</l>
+               <l>To make this good my fancy did ſuggeſt,</l>
+               <l>His horſes might be caſually reverſt.</l>
+               <l>But when I ſaw her eyes an extaſie,</l>
+               <l>Put me in poſture of a <hi>Niobe.</hi>
+               </l>
+               <l>Theſe are thoſe twins which all that chance to view,</l>
+               <l>'Count more reſplendent than the <hi>Delian two.</hi>
+               </l>
+               <l>But her tongue ſoon reviv'd my <hi>Dormant</hi> ſenſe,</l>
+               <l>In augmentation to her eminence,</l>
+               <l>And as the Saylors liſt to th' <hi>Syren</hi>'s ſong,</l>
+               <l>And have nor will nor power to ſteer along,</l>
+               <l>But hover near the Rocks and Shelves till they</l>
+               <l>Have time to make both <hi>wreck</hi> and the. their prey.</l>
+               <l>So thoſe melodious accents render'd me</l>
+               <l>Th' attentive ſlave of this <hi>Parthenope.</hi>
+               </l>
+               <l>Then did the welkinlowre, which did e'r while</l>
+               <l>Behold us with a look, beyond a ſmile.</l>
+               <l>Good reaſon why, SHE went away, the beams</l>
+               <l>Of whoſe bright <hi>Planets</hi> caus'd thoſe dazling gleams;</l>
+               <l>But as the Sun is oft hid from the croud,</l>
+               <l>Behind the ſable curtains of a cloud,</l>
+               <l>Yet ſoon returns, ſo did this envious veyle,</l>
+               <l>Which interpos'd it ſelf, as oft recoyle.</l>
+               <l>
+                  <hi>GARTR<g ref="char:V">Ʋ</g>DE</hi> did oft encounter <hi>Geraldine,</hi>
+               </l>
+               <l>As oft wiſh'd I that his <hi>Cue</hi> had been mine.</l>
+               <l>For though at firſt ſhe would not have releas'd</l>
+               <l>Thoſe ſecret embers rak'd up in her breaſt,</l>
+               <pb n="12" facs="tcp:35234:9"/>
+               <l> Yet if my <hi>Exit</hi> prove as good as his</l>
+               <l>'Twill wrap my ſoul in extaſie of bliſs.</l>
+               <l>'Twas unto <hi>Hymen</hi>'s temple which to you,</l>
+               <l>My <hi>Muſc,</hi> ſhall be a <hi>Ne-plus-ultra</hi> too.</l>
+               <l>For we'l retire, yet 'fore we go let's add</l>
+               <l>As her juſt merit this ſmall
+<note place="margin">(a) <hi>A verbo <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> laudo unde deducunt alii titulum,</hi> Vir<g ref="char:EOLhyphen"/>gilii Aeneidos.</note> aenead;</l>
+               <l>That though her modeſty would not permit</l>
+               <l>Her ſwaſive tongue forbear denying it,</l>
+               <l>Yet who that ſaw her perſonate with th' reſt,</l>
+               <l>Can chuſe but ſay that ſhe performed beſt.</l>
+            </lg>
+         </div>
+         <div n="3" type="canto">
+            <head>CANTO III.</head>
+            <lg>
+               <l>COme from thy dormitory, <hi>Muſe,</hi> and prove</l>
+               <l>A diligent Notary, Then Mighty <hi>Jove</hi>
+               </l>
+               <l>Sate at the helm, and mortals gan to ſing</l>
+               <l>Their ſilent <hi>Mattens</hi> to him, every thing</l>
+               <l>Conſpir'd to aid us in the queſt of her,</l>
+               <l>Of whom in all <hi>Time</hi>'s ruſty Regiſter</l>
+               <l>There's ne'er a <hi>Parallel,</hi> but this her part</l>
+               <l>Is ſo diſcordant from her virtuous heart,</l>
+               <l>Thou ſhalt now praetermit it, draw thy rein,</l>
+               <l>And, craving leave, return to bed again.</l>
+            </lg>
+         </div>
+         <div n="4" type="canto">
+            <pb n="13" facs="tcp:35234:9"/>
+            <head>CANTO IV. Or the ROSINDADE.</head>
+            <lg>
+               <l>THen the <hi>Plebeans</hi> haſten'd to adore,</l>
+               <l>And chant their <hi>Veſpers</hi> to, their great god <hi>Thor</hi>
+               </l>
+               <l>But that is not our theme, my <hi>Muſe,</hi> wee'll ſee</l>
+               <l>Renown'd <hi>ROSINDA</hi>'s hoſpitality</l>
+               <l>In <hi>Naples,</hi> for it was her private jarrs</l>
+               <l>That blew the trumpet to th' intended wars.</l>
+               <l>She forfeits her prerogative to woo,</l>
+               <l>The <hi>Prince</hi> to what ſhe ne'er could tempt him to:</l>
+               <l>Or by facility or kindneſs, he</l>
+               <l>But poorly retributes her courteſie.</l>
+               <l>
+                  <hi>Degenerate cold Prince, whoſe <hi>frigid fire</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Only admits the name of love, 'cauſe blind.</hi>
+               </l>
+               <l>
+                  <hi>How elſe could thy excaecated deſire,</hi>
+               </l>
+               <l>
+                  <hi>Tend to ought elſe but her that was deſign'd</hi>
+               </l>
+               <l>
+                  <hi>To grace the bed o'th' Phaenix of his kind.</hi>
+               </l>
+               <l>'Count but <hi>externals,</hi> ſhe deſerves no worſe</l>
+               <l>Than one that might inherit th' <hi>
+                     <g ref="char:V">Ʋ</g>niverſe.</hi>
+               </l>
+               <l>Poize her <hi>intrinſick virtues,</hi> and ſhe calls</l>
+               <l>For one that could ingroſs <hi>Heroicals.</hi>
+               </l>
+               <l>Nay but for fear of a <hi>Dilemma,</hi> I</l>
+               <l>Could name the <hi>extract</hi> of formoſity.</l>
+               <pb n="14" facs="tcp:35234:10"/>
+               <l> But he affects <hi>Caſſandra,</hi> on whom ſhe</l>
+               <l>Means to employ her beſt <hi>Chirurgery,</hi>
+               </l>
+               <l>Which can't be ineffectual, when each part</l>
+               <l>'s <hi>Magiſterial</hi> to allay the ſmart.</l>
+               <l>Her touch is a <hi>Dictamnum,</hi> and her eyes</l>
+               <l>Dart ſmiles more <hi>ſoveraigne</hi> then <hi>Panaces.</hi>
+               </l>
+               <l>And ſo it prov'd, her patient did regain,</l>
+               <l>At once, both ſtrength and vigor of her brain,</l>
+               <l>Witneſs her plot to quench <hi>ROSINDA</hi>'s fires</l>
+               <l>By th' conſummation of her chaſt deſires.</l>
+               <l>The <hi>Prince</hi> came to the camp of <hi>Scicily</hi>
+               </l>
+               <l>Upon her ſummons for <hi>ROSINDA,</hi> ſhe</l>
+               <l>To ſave his life became a prey to them,</l>
+               <l>And won <hi>Ceſario</hi> by a ſtratagem.</l>
+            </lg>
+         </div>
+         <div n="5" type="canto">
+            <head>CANTO V. Or the DIONYSIADE.</head>
+            <lg>
+               <l>DId'ſt ſee, my <hi>Muſe,</hi> how yonder wanton whore</l>
+               <l>Proud 'cauſe <hi>Queen Regent</hi> of this day &amp; hour,</l>
+               <l>Came whirling in her Coach, as if ſhe mean't</l>
+               <l>To ſport in ſome opacous firmament,</l>
+               <l>With her old <hi>Martial</hi> Paramour, while he</l>
+               <l>Rode on before her through the <hi>Galaxy?</hi>
+               </l>
+               <l>But we will wink at that, 'tis my intent</l>
+               <l>To enterprize a thing more eminent.</l>
+               <l>Let us obſerve <hi>Antonio</hi> that way</l>
+               <l>Encountr'd by his <hi>DIONYSIA.</hi>
+               </l>
+               <pb n="15" facs="tcp:35234:10"/>
+               <l> A dreadful combatant, nay do not ſtart,</l>
+               <l>In <hi>Cupid</hi>'s liſts ſhe's ſure to thrill the heart.</l>
+               <l>Nor was ſhe long in winning of the field,</l>
+               <l>
+                  <hi>Antonio</hi> was ſoon enforc'd to yeild</l>
+               <l>Himſelf a wilful ſubject, and forget</l>
+               <l>Th' allegiance he vow'd to <hi>Margaret.</hi>
+               </l>
+               <l>
+                  <hi>"Such is the potency of her who darts</hi>
+               </l>
+               <l>
+                  <hi>"Glances ſo piercing that they conquer hearts.</hi>
+               </l>
+               <l>Yet he was loath at firſt to quit the yoak</l>
+               <l>Of's lawful <hi>ſoveraign,</hi> but did revoke</l>
+               <l>His reſolution, till a miſſive, brought</l>
+               <l>From <hi>DIONYSIA,</hi> entertain'd his thought.</l>
+               <l>Then read, conſider'd, wept a while, and then</l>
+               <l>Thinking ha'd paſt o'r ſomthing, read again.</l>
+               <l>This rais'd a tempeſt in his troubled breaſt,</l>
+               <l>He re-enacted what he now reverſt,</l>
+               <l>Thought of his <hi>Margaretta,</hi> and the oath</l>
+               <l>In <hi>Hymen</hi>'s temple taken by them both.</l>
+               <l>Then weigh'd his DIONYSIA's courteſie,</l>
+               <l>Which put his mind in <hi>aequilibrity.</hi>
+               </l>
+               <l>Conſulted with his friend, who did prefer</l>
+               <l>The laſt, and made her ſcal the heavyer.</l>
+               <l>Untill ſhe came her ſelf on embaſie,</l>
+               <l>And turn'd the ſcales by th magick of her eye.</l>
+               <l>Which made him to conclude he would go on,</l>
+               <l>Although he grappled with deſtruction.</l>
+               <l>
+                  <hi>"And who could chuſe but be for ſuch an one</hi>
+               </l>
+               <l>
+                  <hi>"A renegado from's Religion.</hi>
+               </l>
+               <l>
+                  <hi>"Perfect <hi>Antonio,</hi> what thou doſt begin,</hi>
+               </l>
+               <l>
+                  <hi>"Let th' worſt come on't, 'twill be a</hi> ſplendid ſin.</l>
+               <pb n="16" facs="tcp:35234:11"/>
+               <l> Thus troubled <hi>DIONYSIA</hi> deſign'd,</l>
+               <l>To meliorate the <hi>Craſis</hi> of his mind</l>
+               <l>By her preſcriptions, O thrice happy man</l>
+               <l>Who had'ſt ſo potent a Phyſician.</l>
+               <l>Whoſe tongue whoſoe' experiments ſhall find</l>
+               <l>
+                  <hi>Galeni Exhilerans</hi> to a penſive mind.</l>
+               <l>Whoſe eyes I've try'd my ſelf and now conclude</l>
+               <l>'Tis th' onely <hi>Acopon</hi> for laſſitude.</l>
+               <l>A kiſs from whoſe ſweet lips, but he alone</l>
+               <l>Muſt be thus blisful, is a <hi>panchreſton.</hi>
+               </l>
+               <l>Yet all theſe <hi>Ana's</hi> could not do him good,</l>
+               <l>Naught can repaire his health but his own blood,</l>
+               <l>Which cures her too, ſhe and her rival friend,</l>
+               <l>Like to undaunted <hi>Amazons,</hi> contend,</l>
+               <l>One weeping, t'other ſmiling, who could do.</l>
+               <l>An act moſt worthy their <hi>Antonio.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="6" type="canto">
+            <head>CANTO VI.</head>
+            <lg>
+               <l>BUt why ſo haſty, <hi>Pegaſus?</hi> look, here</l>
+               <l>Is no great cauſe for ſuch a ſwift career;</l>
+               <l>There's nought in <hi>Friga</hi>'s <hi>Veſpers</hi> doth require</l>
+               <l>So high a <hi>Pannade,</hi> nor is't my deſire</l>
+               <l>That thou ſhould'ſt take the needleſs pains to ſing</l>
+               <l>The virtues of <hi>Landoff</hi>'s fam'd <hi>Magick ring.</hi>
+               </l>
+               <l>Which ſure made her inviſible, for I</l>
+               <l>With all my indagations could not 'ſpy</l>
+               <l>That <hi>Non-parel,</hi> who with her troops poſſeſt</l>
+               <l>Th' <hi>Elective Empire</hi> of my <hi>torrid breſt.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="7" type="canto">
+            <pb n="17" facs="tcp:35234:11"/>
+            <head>CANTO VII.</head>
+            <lg>
+               <l>
+                  <hi>SAturne</hi> ſucceeded next who did ordain</l>
+               <l>
+                  <hi>GARTR<g ref="char:V">Ʋ</g>DE</hi>'s re-entrance in the liſts again,</l>
+               <l>With her <hi>Antagoniſt,</hi> which wee'll paſs o're</l>
+               <l>Becauſe we ſaw, the combate once before.</l>
+               <l>And <hi>Seater</hi>'s <hi>Veſpers</hi> too becauſe they lye</l>
+               <l>Without our Province's territory.</l>
+            </lg>
+         </div>
+         <div n="8" type="canto">
+            <head>CANTO. VIII.</head>
+            <lg>
+               <l>BRight <hi>Sol</hi> the next uſurp'd th' Imperial throne,</l>
+               <l>But vex't to ſee beams brighter than his own.</l>
+               <l>He call'd to <hi>Zephyrus</hi> to bring ſupply</l>
+               <l>Of Clouds, as ſhe diſpell'd them with her eye.</l>
+               <l>But whence thoſe powerful rays were ſent, did lye</l>
+               <l>Out o'th' dominions of my prying eye.</l>
+               <l>So you may ſleep, my <hi>Muſe,</hi> but come anon</l>
+               <l>To take thy <hi>ultime valediction.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="9" type="canto">
+            <pb n="18" facs="tcp:35234:12"/>
+            <head>CANTO IX. Or the <hi>L<g ref="char:V">Ʋ</g>CRETIADE.</hi>
+            </head>
+            <lg>
+               <l>THen <hi>Cynthia</hi> 'roſe the Empreſs of the sky,</l>
+               <l>But from this penſive palefac'd Deity</l>
+               <l>My forward fear preſag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſome <hi>Tragick</hi> end</l>
+               <l>Our <hi>Acidalian</hi> revels did attend.</l>
+               <l>Now, <hi>Muſe,</hi> thy <hi>Pegaſus</hi> his courſe hath run,</l>
+               <l>This is the day <hi>Albions</hi> refulgent Sun</l>
+               <l>Did paſs that line which terminates my ſight,</l>
+               <l>And left me groping in a <hi>polar night.</hi>
+               </l>
+               <l>
+                  <hi>L<g ref="char:V">Ʋ</g>CRETIA,</hi> of whoſe virtue <hi>Fame</hi> hath hurl'd</l>
+               <l>Sufficient <hi>Euges</hi> through th' capacious world,</l>
+               <l>Did from her modeſt eye ſuch lightning dart</l>
+               <l>Kindled laſcivious fires in <hi>Tarquin</hi>'s heart.</l>
+               <l>Who poſted from the camp to raze the ſplendor</l>
+               <l>Of that ſtout <hi>fortlet</hi> which would not ſurrender.</l>
+               <l>But having loſt her name regardleſs ſhe,</l>
+               <l>Reſolv'd not to ſurvive, by battery</l>
+               <l>Demoliſh'd th' fabrick. Thus that Roman dame</l>
+               <l>Reſign'd her life to notifie her name</l>
+               <l>In <hi>Fame</hi>'s records, but this, no doubt, did write</l>
+               <l>The <hi>copy</hi> fairer than the <hi>prototype.</hi>
+               </l>
+               <l>Had this been real 'twould go nigh, I fear,</l>
+               <l>To cauſe a fatall <hi>Regifugium</hi> here.</l>
+               <pb n="19" facs="tcp:35234:12"/>
+               <l> Then I retir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, yet dubious whether ſhe</l>
+               <l>Deſerv'd my <hi>plaudite</hi> or <hi>plangite.</hi>
+               </l>
+               <l>For, if thoſe hapleſs men, whoſe lot did fall</l>
+               <l>I'th' fartheſt part o'th' <hi>frigid Zones,</hi> bewail</l>
+               <l>Their <hi>half-years-night,</hi> yet ſure their Sun will turn</l>
+               <l>At's <hi>period,</hi> what cauſe have I to mourn?</l>
+               <l>Doom'd from the ſight of mine, whoſe brighter rays</l>
+               <l>Make me more ſenſible of ſuch delays.</l>
+               <l>Eſpecially ſith I do not know</l>
+               <l>Whether 't will e'er be day again, or no.</l>
+            </lg>
+         </div>
+         <div n="10" type="canto">
+            <head>CANTO X. Or the CONCLUSION.</head>
+            <lg>
+               <l>THus was I partially <hi>eclyps'd,</hi> and here</l>
+               <l>
+                  <hi>Apollo</hi> too forſook our <hi>Hemiſphere.</hi>
+               </l>
+               <l>And went to's brother <hi>Neptune</hi>'s bed to cool</l>
+               <l>His fiery chariot in his Weſtern Pool.</l>
+               <l>Leaving his Lacquey <hi>Veſper</hi> in his ſeat</l>
+               <l>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unharneſs th' horſes and provide them meat.</l>
+               <l>Mean while my reſtleſs fancy my feet leads</l>
+               <l>T' expatiate in the adjacent meads,</l>
+               <l>Where ſilent <hi>Charwel</hi> revels as ſhe goes</l>
+               <l>To th' Nuptials of her elder ſiſter <hi>Ouze.</hi>
+               </l>
+               <l>And to this Nymph I made my moan till night,</l>
+               <l>With his black mask had hoodwink'd all the light.</l>
+               <pb n="20" facs="tcp:35234:13"/>
+               <l> 
+                  <hi>Cynthia</hi> was abſent too, ſure ſhe was gone</l>
+               <l>To <hi>Latmus</hi> to ſalute <hi>Endymion.</hi>
+               </l>
+               <l>So I was forced to retire to reſt,</l>
+               <l>But <hi>Morpheus</hi> with his wiles could not arreſt</l>
+               <l>My watchful ſences, then <hi>Aurora</hi> led</l>
+               <l>The bluſhing <hi>Morne</hi> from her <hi>Mygdonian</hi> bed.</l>
+               <l>And made the rays of light in tumults throng,</l>
+               <l>Which come too ſoon, although they ſtay'd too long,</l>
+               <l>For warlike <hi>Mars</hi> uſurp'd the reins o'th'sky</l>
+               <l>The laſt of this ſo famous <hi>Heptarchy,</hi>
+               </l>
+               <l>And would needs be my convoy till I come</l>
+               <l>Out of the precincts of <hi>Elyſium.</hi>
+               </l>
+               <l>For ſuch were thoſe moſt bleſſed banks that while</l>
+               <l>SHE darted there her <hi>beatifick</hi> ſmile.</l>
+               <l>Then blame me not if I was ſcarce content</l>
+               <l>To want thoſe <hi>Aſpec<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> yet at laſt I went;</l>
+               <l>But with eyes ſo retorted that I made</l>
+               <l>My t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rdy paces ſeem all <hi>retrograde.</hi>
+               </l>
+               <l>Yet was my tedious journey too ſoon done.</l>
+               <l>Our jades, before the <hi>Sun</hi>'s, their courſe had run<g ref="char:punc">▪</g>
+               </l>
+               <l>But here are none 'fore whom to vent my woes,</l>
+               <l>And flames depreſs'd grow but more vigorous,</l>
+               <l>Experience dictates, for this he<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt of mine</l>
+               <l>Is daily <hi>holocauſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> to that ſhrine.</l>
+            </lg>
+         </div>
+         <div type="epilogue">
+            <pb n="21" facs="tcp:35234:13"/>
+            <head>The Book EPILOGizeth.</head>
+            <lg>
+               <l>
+                  <hi>THus have my pages entertain'd your eye</hi>
+               </l>
+               <l>
+                  <hi>With ſome reflections of formoſity.</hi>
+               </l>
+               <l>
+                  <hi>He that enumerates all ſhall find it more</hi>
+               </l>
+               <l>
+                  <hi>Than th' task o'th' <hi>Segamore</hi>'s Embaſſador.</hi>
+               </l>
+               <l>
+                  <hi>And now let <hi>Critick Cato</hi>s vent their rage,</hi>
+               </l>
+               <l>
+                  <hi>In their cenſorious deſcants on each page.</hi>
+               </l>
+               <l>
+                  <hi>All ſuch <hi>Malignant Planets</hi> I'll neglect,</hi>
+               </l>
+               <l>
+                  <hi>So you'll but deign me your benign <hi>Aſpect.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <epigraph>
+               <q xml:lang="lat">
+                  <l>—F<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſan &amp; hec olim meminiſſe Juvabit.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
